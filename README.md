@@ -16,7 +16,7 @@ ViewLikeBesselUtils(mBtn, mTVS) { view, toggle, viewLikeBesselUtils ->
 }
 ```
 #### 效果
-https://img-blog.csdnimg.cn/02106cddfddf4d209ee9dad595d3a895.gif#pic_center
+![7](https://img-blog.csdnimg.cn/02106cddfddf4d209ee9dad595d3a895.gif#pic_center)
 #### 使用
 ```kotlin
 // 效果View
@@ -33,4 +33,4 @@ ViewLikeUtils(findViewById<Button>(R.id.btn_anim), textView) { clickView, toggle
 }
 ```
 #### 效果
-https://img-blog.csdnimg.cn/b87148459a444c2c967b8c76c4afc59c.gif#pic_center
+![1](https://img-blog.csdnimg.cn/b87148459a444c2c967b8c76c4afc59c.gif#pic_center)
